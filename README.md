@@ -1,6 +1,6 @@
-### ¡Hola a todos! Mi nombre es Ian Emiliano Valdez Ramírez 👋
+### Mi nombre es Ian Emiliano Valdez Ramírez 👋
 
-## Soy estudiante y entusiasta del desarrollo de software
+## Soy estudiante, con gusto por el desarrollo de software
 
 - Actualmente aprendiendo y mejorando mis habilidades en programación.
 - Me gusta experimentar con nuevas tecnologías y trabajar en proyectos pequeños para aprender haciendo.
