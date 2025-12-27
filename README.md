@@ -13,22 +13,18 @@
 
 📧 **Correo:** ianemilianoram00@gmail.com
 
----
-
 ### 🔧 Lenguajes y Herramientas que utilizo:
 
 __Generales:__  
 <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/arduino.svg" width="30" height="30" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" />
 <br />
-
----
 
 ## 🔎 Mis estadísticas
 <details>
