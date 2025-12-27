@@ -11,6 +11,8 @@
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />](https://github.com/emixde12)
 <br />
 
+📧 **Correo:** ianemilianoram00@gmail.com
+
 ---
 
 ### 🔧 Lenguajes y Herramientas que utilizo:
