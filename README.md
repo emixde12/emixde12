@@ -1,6 +1,6 @@
-### Mi nombre es Ian Emiliano Valdez Ramírez 👋
+###  Mi nombre es Ian Emiliano Valdez Ramírez 👋
 
-## Soy estudiante, con gusto por el desarrollo de software
+## Soy estudiante y entusiasta del desarrollo de software
 
 - Actualmente aprendiendo y mejorando mis habilidades en programación.
 - Me gusta experimentar con nuevas tecnologías y trabajar en proyectos pequeños para aprender haciendo.
@@ -32,8 +32,8 @@ __Generales:__
 <details>
     <summary>🔎 Ver</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emixde12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emixde12&layout=compact&theme=tokyonight)
+![GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=emixde12&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=emixde12&layout=compact&theme=tokyonight)
 
 </details>
 
