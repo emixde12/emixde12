@@ -17,17 +17,17 @@
 
 ### 🔧 Lenguajes y Herramientas que utilizo
 
+### 🔧 Lenguajes y Herramientas que utilizo
+
 **Generales:**  
 
 <img align="left" alt="Python" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="C++" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 
 <br /><br />
 
----
 
 ## 📊 Mis estadísticas
 
