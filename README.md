@@ -31,16 +31,10 @@
 
 ## 📊 Mis estadísticas
 
-<details>
-  <summary>📊 Ver estadísticas</summary>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emixde12&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emixde12&layout=compact&theme=tokyonight)
 
-</details>
-
----
 
 ## ⚡ Actividad Reciente
 
